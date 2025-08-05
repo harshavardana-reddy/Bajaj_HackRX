@@ -40,7 +40,7 @@ ENV/
 Thumbs.db
 
 # Docker
-Dockerfile
+<!-- Dockerfile -->
 .dockerignore
 
 # Documentation
